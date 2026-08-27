@@ -1,4 +1,4 @@
-<img src="./ParkHere/Resources/Assets.xcassets/AppIcon.appiconset/Icon-iOS-Default-1024x1024@1x.png" width="240" alt="CarPin logo" />
+<img src="./ParkHere/Resources/carPinLogo.png" width="240" alt="CarPin logo" />
 
 # CarPin
 
@@ -26,6 +26,11 @@ The app guides you back to your parking spot with directional arrows and corresp
 
 ## 📷 Screenshots
 <div style="display: flex; gap: 16px; flex-wrap: wrap; justify-content: center;">
+    <img src="./ParkHere/Resources/Screenshots/onboardingScreen.png" width="240" alt="CarPin onboarding screen" />
+     <img src="./ParkHere/Resources/Screenshots/emptyScreen.png" width="240" alt="CarPin empty screen" />
+    <img src="./ParkHere/Resources/Screenshots/cameraScreen.png" width="240" alt="CarPin camera screen" />
+    <img src="./ParkHere/Resources/Screenshots/parkingSavedScreen.png" width="240" alt="CarPin parking saved screen" />
+    <img src="./ParkHere/Resources/Screenshots/navigateScreen.png" width="240" alt="CarPin navigate screen" />
 </div>
 
 ## 👥 Team Members
