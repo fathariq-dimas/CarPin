@@ -19,6 +19,7 @@ Save your parking spot by taking photos of landmarks along the way.
 The app guides you back to your parking spot with directional arrows and corresponding landmark images.
 
 ## 🛠 Tech Stack
+- SwiftUI
 - SwiftData
 - CoreLocation
 - CoreMotion
